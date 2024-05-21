@@ -1,7 +1,7 @@
 /***
 This is the helper module for std::fixed_point32
 */
-module math::fixed_point32_empower {
+module 0x9c564002970ce40370b0c1a8328d2e91924dab43ca2cb483af67aaf0f7cbe44e::fixed_point32_empower {
   use std::fixed_point32::{Self, FixedPoint32};
   
   // Add 2 FixedPoint32 numers

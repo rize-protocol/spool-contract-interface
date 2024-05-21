@@ -1,4 +1,4 @@
-module math::u128 {
+module 0x9c564002970ce40370b0c1a8328d2e91924dab43ca2cb483af67aaf0f7cbe44e::u128 {
   
   const DIVIDE_BY_ZERO: u64 = 1002;
   const CALCULATION_OVERFLOW: u64 = 1003;
