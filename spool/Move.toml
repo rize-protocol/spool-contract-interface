@@ -8,10 +8,10 @@ git = "https://github.com/MystenLabs/sui.git"
 subdir = "crates/sui-framework/packages/sui-framework"
 rev = "mainnet"
 
-[dependencies.Math]
-git = "https://github.com/rize-protocol/scallop-math"
-subdir = "math"
-rev = "main"
+# [dependencies.Math]
+# git = "https://github.com/rize-protocol/scallop-math"
+# subdir = "math"
+# rev = "main"
 
 [addresses]
 spool = "0xe87f1b2d498106a2c61421cec75b7b5c5e348512b0dc263949a0e7a3c256571a"
